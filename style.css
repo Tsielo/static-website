@@ -1,0 +1,27 @@
+banner {
+    background-color: rgb(139, 19, 19);
+    height: 200px;
+    text-align: center;
+}
+h1 {
+    margin: 5px;
+    line-height: 200px;
+}
+body {
+    margin: 10px;
+    background-color: rgb(98, 159, 209);
+}
+.bodyText {
+    color: #000000;
+}
+li {
+    padding: 10px;
+    display: inline;
+}
+#navBar {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(5, 15, 5);
+}
